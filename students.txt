@@ -1,0 +1,10 @@
+John Doe, Grade 10, Age 15
+Jane Smith, Grade 11, Age 16
+Michael Brown, Grade 12, Age 17
+Emily Davis, Grade 10, Age 15
+Chris Wilson, Grade 11, Age 16
+Sarah Johnson, Grade 12, Age 17
+David Lee, Grade 10, Age 15
+Anna White, Grade 11, Age 16
+James Green, Grade 12, Age 17
+Laura Black, Grade 10, Age 15
